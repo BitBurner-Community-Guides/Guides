@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title></title>
+    <meta name="description" content="" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flexboxgrid/6.3.1/flexboxgrid.min.css" type="text/css" >
+
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/styles/default.min.css">
+
+    <link rel="stylesheet" type="text/css" href="./css/main.css">
+</head>
+<body>
+    <header>
+        <h1></h1>
+    </header>
+    <main>
+        {
+	"version": 3,
+	"file": "main.css",
+	"sources": [
+		"main.scss"
+	],
+	"sourcesContent": [
+		"* {\r\n    box-sizing: border-box;\r\n}\r\n\r\nbody {\r\n    font-family: 'Roboto', sans-serif;\r\n    font-size: 16px;\r\n    line-height: 1.2;\r\n}"
+	],
+	"names": [],
+	"mappings": "AAAA,AAAA,CAAC,AAAC,CACE,UAAU,CAAE,UAAU,CACzB,AAED,AAAA,IAAI,AAAC,CACD,WAAW,CAAE,oBAAoB,CACjC,SAAS,CAAE,IAAI,CACf,WAAW,CAAE,GAAG,CACnB"
+}
+    </main>
+</body>
+</html>

@@ -1,0 +1,27 @@
+{
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BitBurner-Community-Guides/Guides.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BitBurner-Community-Guides/Guides/issues"
+  },
+  "homepage": "https://github.com/BitBurner-Community-Guides/Guides#readme",
+  "devDependencies": {
+    "@metalsmith/collections": "^1.1.0",
+    "@metalsmith/drafts": "^1.1.1",
+    "@metalsmith/layouts": "^2.4.0",
+    "@metalsmith/markdown": "^1.4.0",
+    "@metalsmith/table-of-contents": "^1.0.0",
+    "jstransformer-handlebars": "^1.2.0",
+    "jstransformer-markdown": "^1.2.1",
+    "metalsmith": "^2.3.0",
+    "metalsmith-metallic": "^2.0.3",
+    "metalsmith-sass": "^2.0.0",
+    "node-sass": "^7.0.1"
+  }
+}
