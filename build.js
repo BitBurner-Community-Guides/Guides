@@ -8,7 +8,7 @@ const Metalsmith  = require('metalsmith'),
 
 Metalsmith(__dirname)
     .source('./src')
-    .destination('./build')
+    .destination('./docs')
     .clean(true)
 
     .use(metallic())
